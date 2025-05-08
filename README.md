@@ -1,7 +1,8 @@
-# Welcome to my GitHub! 👋
+# Overview
 
+<hr>
 
-## OS
+## 💻 OS
 <br>
 
 <p align="center">
