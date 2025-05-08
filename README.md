@@ -1,12 +1,11 @@
 # Overview
-
-<hr>
+<br>
 
 ## 💻 OS
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=redhat" />
+  <img src="https://skillicons.dev/icons?i=linux,redhat" />
 </p>
 
 ## 🛠️ Languages and Tools
